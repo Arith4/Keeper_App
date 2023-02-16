@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #eee;
+  height: 100vh;
+}
+
+h1 {
+  background-color: #ffbf00;
+  color: white;
+  padding: 15px;
+  font-family: "McLaren", cursive;
+  font-weight: lighter;
+}
+
+.box {
+  width: 220px;
+  padding: 10px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+}
+
+.box p {
+  padding: 3px 0;
+  font-size: 16px;
+}
+
+footer {
+  margin-left: 50%;
+  margin-top: 15%;
+  position: fixed;
+  text-align: center;
+  color: grey;
+  font-weight: lighter;
+  font-family: "Montserrat", sans-serif;
+}
